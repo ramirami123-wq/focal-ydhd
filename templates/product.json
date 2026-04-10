@@ -435,29 +435,36 @@
         "question_TDP7NK": {
           "type": "question",
           "settings": {
-            "title": "Does it have compartments inside?",
-            "answer": "<p>Absolutely. It features multiple partitions to help you keep items organized and easy to find.</p>"
+            "title": "How does the doorbell work?",
+            "answer": "<p>It connects to your WiFi and lets you see and talk to visitors through your phone.</p>"
           }
         },
         "question_hPGXCN": {
           "type": "question",
           "settings": {
-            "title": "Can it be used for things other than makeup?",
-            "answer": "<p>Of course! Many customers use it for toiletries, tech accessories, stationery, or small personal items.<br/></p>"
+            "title": "Is it easy to install?",
+            "answer": "<p>Yes, it’s completely wireless and can be set up in just a few minutes.</p>"
           }
         },
         "question_7Rxwez": {
           "type": "question",
           "settings": {
-            "title": "Is this a good gift option?",
-            "answer": "<p>Definitely. Its stylish design and practicality make it a great gift for friends, family, or anyone who loves staying organized.</p>"
+            "title": "Can I use it at night?",
+            "answer": "<p>Yes, it has built-in night vision for clear video in the dark.</p>"
           }
         },
         "question_Pzgd7t": {
           "type": "question",
           "settings": {
-            "title": "Is it lightweight to carry?",
-            "answer": "<p>Yes, it’s designed to be portable and easy to carry without adding bulk to your bag. </p>"
+            "title": "Does it send notifications?",
+            "answer": "<p>Yes, you’ll get instant alerts on your phone when motion is detected.</p>"
+          }
+        },
+        "question_YaeL3t": {
+          "type": "question",
+          "settings": {
+            "title": "Can I talk to visitors remotely?",
+            "answer": "<p>Yes, the two-way audio lets you speak to anyone at your door from anywhere.</p>"
           }
         }
       },
@@ -466,7 +473,8 @@
         "question_TDP7NK",
         "question_hPGXCN",
         "question_7Rxwez",
-        "question_Pzgd7t"
+        "question_Pzgd7t",
+        "question_YaeL3t"
       ],
       "name": "FAQ",
       "settings": {
