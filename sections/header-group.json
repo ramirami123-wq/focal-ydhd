@@ -57,8 +57,8 @@
         "reduce_desktop_padding": false,
         "show_locale_selector": true,
         "show_country_selector": false,
-        "enable_transparent_header": false,
-        "transparent_header_text_color": "#ffffff",
+        "enable_transparent_header": true,
+        "transparent_header_text_color": "#2a3e79",
         "search_menu": ""
       }
     }
